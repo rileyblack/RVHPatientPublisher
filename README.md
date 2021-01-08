@@ -1,2 +1,2 @@
 # RVHPatientPublisher
-Utilized the Java Database Connectivity API to write a Java program allowing hospital employees to pull historical patient information from the organization database without SQL working knowledge. These inquiries are published into a report with the following format:
+Utilized the Java Database Connectivity API to write a Java program allowing "SQL-less" pulls of historical patient information from model hospital database. Query results are published into a report with the following format:
