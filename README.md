@@ -1,5 +1,5 @@
 # RVHPatientPublisher
-Utilized the [Java Database Connectivity API](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) to write a Java program allowing "SQL-less" pulls of historical patient information from model hospital database. 
+Utilized the [Java Database Connectivity API](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) to write a Java program allowing "SQL-less" pulls of historical patient information from a model hospital database. 
 
 ## Report Format
 Query results are published into a report with the following format:
